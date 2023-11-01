@@ -2,6 +2,10 @@
  * https://leetcode.cn/problems/design-linked-list/
  */
 
+/**
+ * 时间复杂度: 涉及 index 的相关操作为 O(index), 其余为 O(1)
+ * 空间复杂度: O(n)
+ */
 public class _707_设计链表 {
 
     //单链表
